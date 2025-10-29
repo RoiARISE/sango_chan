@@ -6,7 +6,7 @@ Roi_ARISEによって創作された敷島ロイの子。できることは[wiki
 
 このbotはMisskey.pyを使用しています。[Misskey.py](https://github.com/YuzuRyo61/Misskey.py).
 
-## License
+## ライセンス
 MIT License
 
 ## クレジット
