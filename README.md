@@ -12,4 +12,4 @@ MIT License
 ## クレジット
 - **Misskey.py** by [YuzuRyo61](https://github.com/YuzuRyo61/Misskey.py) (MIT)
 - 参考記事: [CyberRex on Qiita](https://qiita.com/CyberRex/items/e49828dba8e5867d8b26)
-- Some parts assisted by ChatGPT (OpenAI) and Gemini (Google)
+- 一部のコードは ChatGPT (OpenAI) と Gemini (Google) を参考にして作りました
